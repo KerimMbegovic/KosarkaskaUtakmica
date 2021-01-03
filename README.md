@@ -1,1 +1,1 @@
-# KosarkaskaUtakmica
+Simulacija košarkaške utakmice
